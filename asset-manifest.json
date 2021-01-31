@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/validation_form_custom_hook/static/css/main.fa28685d.chunk.css",
+    "main.js": "/validation_form_custom_hook/static/js/main.aa8ee600.chunk.js",
+    "main.js.map": "/validation_form_custom_hook/static/js/main.aa8ee600.chunk.js.map",
+    "runtime-main.js": "/validation_form_custom_hook/static/js/runtime-main.2381d547.js",
+    "runtime-main.js.map": "/validation_form_custom_hook/static/js/runtime-main.2381d547.js.map",
+    "static/js/2.157561ca.chunk.js": "/validation_form_custom_hook/static/js/2.157561ca.chunk.js",
+    "static/js/2.157561ca.chunk.js.map": "/validation_form_custom_hook/static/js/2.157561ca.chunk.js.map",
+    "index.html": "/validation_form_custom_hook/index.html",
+    "static/css/main.fa28685d.chunk.css.map": "/validation_form_custom_hook/static/css/main.fa28685d.chunk.css.map",
+    "static/js/2.157561ca.chunk.js.LICENSE.txt": "/validation_form_custom_hook/static/js/2.157561ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2381d547.js",
+    "static/js/2.157561ca.chunk.js",
+    "static/css/main.fa28685d.chunk.css",
+    "static/js/main.aa8ee600.chunk.js"
+  ]
+}
